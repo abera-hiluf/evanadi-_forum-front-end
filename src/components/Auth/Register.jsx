@@ -52,8 +52,8 @@ function Register() {
       navigate("/login");
     } catch (error) {
       console.error("Registration error", error);
-      setErrors(error.respose?.data?.msg);
-      // alert("registraion failed")
+      setErrors(error.response?.data?.msg);
+      // alert("registration failed")
     }
   }
 
