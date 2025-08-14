@@ -1,12 +1,36 @@
-# React + Vite
+# 💬 Evanadi Forum – Full-Stack Student Q&A Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A student-focused Q&A platform designed to foster knowledge sharing and collaboration.  
+Built with a modern tech stack for a smooth, responsive experience.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Ask & Answer:** Students can post questions and provide answers.
+- **Categories & Tags:** Organize questions by topics for easy discovery.
+- **Responsive Design:** Mobile-friendly layout using Bootstrap.
+- **User Accounts:** Secure authentication for posting and interacting.
+- **Database-Driven:** Stores questions, answers, and user profiles in MySQL.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+**Frontend:**
+- React.js
+- CSS
+- Bootstrap
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Backend:**
+- Node.js
+- Express.js
+- MySQL
+
+**Hosting:**
+- Backend hosted on **YeGaRaHost** (`evanagadiforum.aberahiluf.com`)
+
+## 🚀 Live Links
+- **Frontend:**https://evanagadiforum.aberahiluf.com/login
+- **Backend API:** [https://evanagadiforum.aberahiluf.com](https://evanagadiforum.aberahiluf.com)
+
+## 📦 Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/abera-hiluf/evanadi-_forum-front-end.git
