@@ -26,7 +26,7 @@ Built with a modern tech stack for a smooth, responsive experience.
 - Backend hosted on **YeGaRaHost** (`evanagadiforum.aberahiluf.com`)
 
 ## 🚀 Live Links
-- **Frontend:**https://evanagadiforum.aberahiluf.com/login
+- **Frontend:https://evanagadiforum.aberahiluf.com/login
 - **Backend API:** [https://evanagadiforum.aberahiluf.com](https://evanagadiforum.aberahiluf.com)
 
 ## 📦 Installation
